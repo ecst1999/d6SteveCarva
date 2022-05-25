@@ -1,0 +1,13 @@
+C:\Users\Steve\source\repos\DeberS6SteveCarvajal\DeberS6SteveCarvajal\bin\Debug\DeberS6SteveCarvajal.exe.config
+C:\Users\Steve\source\repos\DeberS6SteveCarvajal\DeberS6SteveCarvajal\bin\Debug\DeberS6SteveCarvajal.exe
+C:\Users\Steve\source\repos\DeberS6SteveCarvajal\DeberS6SteveCarvajal\bin\Debug\DeberS6SteveCarvajal.pdb
+C:\Users\Steve\source\repos\DeberS6SteveCarvajal\DeberS6SteveCarvajal\obj\Debug\DeberS6SteveCarvajal.csprojAssemblyReference.cache
+C:\Users\Steve\source\repos\DeberS6SteveCarvajal\DeberS6SteveCarvajal\obj\Debug\DeberS6SteveCarvajal.Form1.resources
+C:\Users\Steve\source\repos\DeberS6SteveCarvajal\DeberS6SteveCarvajal\obj\Debug\DeberS6SteveCarvajal.Properties.Resources.resources
+C:\Users\Steve\source\repos\DeberS6SteveCarvajal\DeberS6SteveCarvajal\obj\Debug\DeberS6SteveCarvajal.csproj.GenerateResource.cache
+C:\Users\Steve\source\repos\DeberS6SteveCarvajal\DeberS6SteveCarvajal\obj\Debug\DeberS6SteveCarvajal.csproj.CoreCompileInputs.cache
+C:\Users\Steve\source\repos\DeberS6SteveCarvajal\DeberS6SteveCarvajal\obj\Debug\DeberS6SteveCarvajal.exe
+C:\Users\Steve\source\repos\DeberS6SteveCarvajal\DeberS6SteveCarvajal\obj\Debug\DeberS6SteveCarvajal.pdb
+C:\Users\Steve\source\repos\DeberS6SteveCarvajal\DeberS6SteveCarvajal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Steve\source\repos\DeberS6SteveCarvajal\DeberS6SteveCarvajal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Steve\source\repos\DeberS6SteveCarvajal\DeberS6SteveCarvajal\obj\Debug\DeberS6SteveCarvajal.csproj.CopyComplete
